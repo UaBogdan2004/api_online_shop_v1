@@ -1,4 +1,3 @@
-#```markdown
 # api_online_shop_v1
 This project is an implementation of an API for an online store built with Django and Django REST Framework. It includes functionality for user registration and authentication, product management, shopping cart, and order handling.
 
