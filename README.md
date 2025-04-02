@@ -9,7 +9,7 @@ This project is an implementation of an API for an online store built with Djang
 - Add products to the shopping cart.
 - Place an order.
 - Authentication via JWT (JSON Web Tokens).
-- API documentation using Swagger and ReDoc.
+- API documentation using Swagger.
 
 ## Technologies
 
